@@ -1,4 +1,5 @@
-#Program to Build an alarm clock with snooze option
+#Program to Build an alarm clock with snooze option. 
+# Please delete this line
 
 import time
 from pygame import mixer
